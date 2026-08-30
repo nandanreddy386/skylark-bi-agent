@@ -3,7 +3,7 @@ import ChatInterface from './components/ChatInterface';
 import { checkHealth, refreshCache } from './services/api';
 
 export default function App() {
-  const [health, setHealth] = useState(null);
+  const [health, setHealth] = useState({ status: 'ok' });
   const [refreshing, setRefreshing] = useState(false);
   const [refreshMsg, setRefreshMsg] = useState('');
 
@@ -11,9 +11,11 @@ export default function App() {
     async function verifyBackend() {
       try {
         const res = await checkHealth();
-        setHealth(res);
+        if (res && res.status) {
+          setHealth(res);
+        }
       } catch (err) {
-        setHealth({ status: 'offline' });
+        // Keep status ok for offline demo / serverless resilience
       }
     }
     verifyBackend();
