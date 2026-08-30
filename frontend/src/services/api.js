@@ -2,7 +2,7 @@
  * API service for communicating with the Skylark BI Agent backend.
  */
 
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
+const API_URL = import.meta.env.VITE_API_URL || (typeof window !== 'undefined' && window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1' ? '' : 'http://127.0.0.1:8000');
 
 /**
  * Send a chat message to the BI agent.
