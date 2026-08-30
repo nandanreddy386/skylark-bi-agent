@@ -15,14 +15,17 @@
   "routes": [
     {
       "src": "/api/chat",
+      "methods": ["GET", "POST", "OPTIONS"],
       "dest": "api/chat.py"
     },
     {
       "src": "/api/health",
+      "methods": ["GET", "POST", "OPTIONS"],
       "dest": "api/health.py"
     },
     {
       "src": "/api/refresh",
+      "methods": ["GET", "POST", "OPTIONS"],
       "dest": "api/refresh.py"
     },
     {
