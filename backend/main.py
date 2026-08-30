@@ -110,6 +110,12 @@ async def refresh_cache():
         raise HTTPException(status_code=500, detail="Failed to refresh cache.")
 
 
+@app.get("/favicon.ico", include_in_schema=False)
+async def favicon():
+    from fastapi.responses import Response
+    return Response(status_code=204)
+
+
 @app.get("/")
 async def root():
     """Root endpoint."""
