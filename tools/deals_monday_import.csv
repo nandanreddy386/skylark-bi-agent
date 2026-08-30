@@ -1,0 +1,314 @@
+Deal Name,Owner Code,Client Code,Deal Status,Closure Probability,Masked Deal Value,Sector,Created Date,Tentative Close Date,Deal Stage,Product Deal
+Naruto,OWNER_001,COMPANY089,Open,High,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sasuke,OWNER_001,COMPANY091,Open,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sasuke,OWNER_002,COMPANY124,Open,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sakura,OWNER_002,COMPANY046,Open,Low,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sakura,OWNER_002,COMPANY148,Open,High,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sakura,OWNER_002,COMPANY047,Open,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sakura,OWNER_003,COMPANY197,Open,Low,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sakura,OWNER_001,COMPANY177,On hold,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sakura,OWNER_001,COMPANY094,Open,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sakura,OWNER_001,COMPANY178,On hold,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sakura,OWNER_004,COMPANY149,Open,High,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sakura,OWNER_004,COMPANY149,Open,Low,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sakura,OWNER_002,COMPANY171,Open,Low,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sakura,OWNER_003,COMPANY111,Open,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sakura,OWNER_003,COMPANY111,Open,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sakura,OWNER_003,COMPANY111,Open,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sakura,OWNER_004,COMPANY149,Open,High,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sakura,OWNER_004,COMPANY129,Open,High,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sakura,OWNER_004,COMPANY129,Open,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sakura,OWNER_004,COMPANY107,Open,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sakura,OWNER_004,COMPANY103,Open,Low,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sakura,OWNER_004,COMPANY077,Open,Low,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sakura,OWNER_004,COMPANY026,Open,High,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sakura,OWNER_004,COMPANY193,Open,High,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sakura,OWNER_003,COMPANY111,Open,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sakura,OWNER_001,COMPANY169,Open,High,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sakura,OWNER_001,COMPANY183,Open,High,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sakura,OWNER_003,COMPANY009,Open,Low,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sakura,OWNER_003,COMPANY052,Open,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sakura,OWNER_003,COMPANY108,Open,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Kakashi,OWNER_003,COMPANY021,Open,Low,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Goku,OWNER_003,COMPANY067,Open,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Goku,OWNER_003,COMPANY043,Open,Low,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Luffy,OWNER_003,COMPANY093,Open,High,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Zoro,OWNER_003,COMPANY067,Open,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Nami,OWNER_004,COMPANY110,Open,Low,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sanji,OWNER_003,COMPANY048,Open,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sanji,OWNER_002,COMPANY124,Open,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Rukia,OWNER_001,COMPANY087,Open,High,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Rukia,OWNER_001,COMPANY095,Open,High,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Light Yagami,OWNER_003,COMPANY007,Open,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Light Yagami,OWNER_003,COMPANY067,Open,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Eren Yeager,OWNER_003,COMPANY068,Open,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Mikasa,OWNER_001,COMPANY050,Open,Low,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Levi,OWNER_003,COMPANY051,Open,High,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Tanjiro,OWNER_003,COMPANY161,Open,High,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Tanjiro,OWNER_003,COMPANY186,Open,High,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Tanjiro,OWNER_001,COMPANY039,Open,High,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Tanjiro,OWNER_001,COMPANY136,Open,High,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Zenitsu,OWNER_003,COMPANY190,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Inosuke,OWNER_003,COMPANY186,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Gojo,OWNER_005,COMPANY101,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Yuji Itadori,OWNER_006,COMPANY118,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Yuji Itadori,OWNER_002,COMPANY148,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Megumi,OWNER_002,COMPANY070,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Nobara,OWNER_006,COMPANY146,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Saitama,OWNER_006,COMPANY014,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Genos,OWNER_002,COMPANY168,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Edward Elric,OWNER_002,COMPANY179,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alphonse,OWNER_007,COMPANY078,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alphonse,OWNER_003,COMPANY058,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alphonse,OWNER_003,COMPANY143,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alphonse,OWNER_003,COMPANY071,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alphonse,OWNER_003,COMPANY063,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alphonse,OWNER_003,COMPANY045,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alphonse,OWNER_003,COMPANY120,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alphonse,OWNER_003,COMPANY074,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alphonse,OWNER_006,COMPANY005,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alphonse,OWNER_003,COMPANY115,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alphonse,OWNER_003,COMPANY080,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alphonse,OWNER_003,COMPANY057,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alphonse,OWNER_003,COMPANY148,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alphonse,OWNER_006,COMPANY078,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alphonse,OWNER_006,COMPANY112,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alphonse,OWNER_003,COMPANY071,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alphonse,OWNER_003,COMPANY133,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alphonse,OWNER_003,COMPANY194,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alphonse,OWNER_006,COMPANY142,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Spike Spiegel,OWNER_006,COMPANY169,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Piccolo,OWNER_001,COMPANY085,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Totoro,OWNER_003,COMPANY121,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Chihiro,OWNER_003,COMPANY116,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Howl,OWNER_003,COMPANY025,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Kiki,OWNER_003,COMPANY133,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Shanks,OWNER_003,COMPANY175,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Shanks,OWNER_003,COMPANY058,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Pain,OWNER_006,COMPANY020,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Ace,OWNER_006,COMPANY122,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Gaara,OWNER_006,COMPANY122,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Itachi,OWNER_003,COMPANY157,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Kaguya,OWNER_006,COMPANY150,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Kaguya,OWNER_006,COMPANY128,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Bulma,OWNER_003,COMPANY072,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Trunks,OWNER_003,COMPANY038,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Trunks,OWNER_003,COMPANY038,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Killua,OWNER_003,COMPANY038,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Gon,OWNER_003,COMPANY038,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Kurapika,OWNER_001,COMPANY182,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Hisoka,OWNER_003,COMPANY185,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sailor Moon,OWNER_003,COMPANY196,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sailor Moon,OWNER_006,COMPANY162,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sailor Moon,OWNER_006,COMPANY160,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sailor Moon,OWNER_006,COMPANY146,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Inuyasha,OWNER_002,COMPANY125,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sesshomaru,OWNER_002,COMPANY125,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sesshomaru,OWNER_002,COMPANY125,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Sesshomaru,OWNER_003,COMPANY154,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Kirito,OWNER_003,COMPANY186,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Asuna,OWNER_003,COMPANY005,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Rem,OWNER_003,COMPANY199,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Emilia,OWNER_003,COMPANY071,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Subaru,OWNER_003,COMPANY027,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Subaru,OWNER_003,COMPANY186,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Subaru,OWNER_003,COMPANY101,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Subaru,OWNER_003,COMPANY066,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Subaru,OWNER_003,COMPANY198,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Subaru,OWNER_003,COMPANY176,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Subaru,OWNER_003,COMPANY145,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Subaru,OWNER_003,COMPANY058,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Subaru,OWNER_003,COMPANY155,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Kaneki,OWNER_003,COMPANY133,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Inosuke,OWNER_003,COMPANY018,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Touka,OWNER_003,COMPANY114,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Jotaro,OWNER_001,COMPANY073,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Dio,OWNER_006,COMPANY167,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Josuke,OWNER_006,COMPANY122,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Josuke,OWNER_003,COMPANY075,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Giorno,OWNER_002,COMPANY098,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Armin,OWNER_006,COMPANY065,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Erwin,OWNER_003,COMPANY200,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Deku,OWNER_003,COMPANY191,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Erwin,OWNER_003,COMPANY152,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Erwin,OWNER_003,COMPANY034,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Erwin,OWNER_006,COMPANY181,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Erwin,OWNER_006,COMPANY023,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Erwin,OWNER_006,COMPANY128,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Rimuru,OWNER_003,COMPANY133,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Mugen,OWNER_003,COMPANY133,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Shinra,OWNER_003,COMPANY030,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Rengoku,OWNER_003,COMPANY082,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Rengoku,OWNER_003,COMPANY007,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Madara,OWNER_003,COMPANY006,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Obito,OWNER_003,COMPANY053,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Obito,OWNER_003,COMPANY174,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Akaza,OWNER_003,COMPANY158,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Cell,OWNER_003,COMPANY007,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Frieza,OWNER_003,COMPANY008,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Frieza,OWNER_003,COMPANY081,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Beerus,OWNER_002,COMPANY079,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Whis,OWNER_002,COMPANY124,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Gohan,OWNER_003,COMPANY049,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Gohan,OWNER_003,COMPANY156,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Gohan,OWNER_001,COMPANY088,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Krillin,OWNER_001,COMPANY147,Open,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Donald Duck,OWNER_003,COMPANY035,Dead,Low,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Goofy,OWNER_003,COMPANY189,Dead,Low,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Daffy Duck,OWNER_002,COMPANY124,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Erwin,OWNER_002,COMPANY117,Dead,Low,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_162,OWNER_003,COMPANY111,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Bugs Bunny,OWNER_003,COMPANY007,Dead,Low,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Bugs Bunny,OWNER_004,COMPANY010,Dead,Low,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Bugs Bunny,OWNER_001,COMPANY105,Dead,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Bugs Bunny,OWNER_003,COMPANY126,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Bugs Bunny,OWNER_003,COMPANY036,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Bugs Bunny,OWNER_001,COMPANY137,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Bugs Bunny,OWNER_001,COMPANY137,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Scooby-Doo,OWNER_001,COMPANY137,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Scooby-Doo,OWNER_001,COMPANY137,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Scooby-Doo,OWNER_001,COMPANY024,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Scooby-Doo,OWNER_001,COMPANY024,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Scooby-Doo,OWNER_001,COMPANY024,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Shaggy,OWNER_001,COMPANY024,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Tom,OWNER_001,COMPANY159,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Jerry,OWNER_003,COMPANY001,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Bart Simpson,OWNER_001,COMPANY188,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Bart Simpson,OWNER_001,COMPANY186,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Lisa Simpson,OWNER_001,COMPANY085,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Bakugo,OWNER_001,COMPANY192,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Peter Griffin,OWNER_001,COMPANY102,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Stewie Griffin,OWNER_001,COMPANY076,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Stewie Griffin,OWNER_001,COMPANY076,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Stewie Griffin,OWNER_001,COMPANY076,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Stewie Griffin,OWNER_001,COMPANY076,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Stewie Griffin,OWNER_001,COMPANY076,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Stewie Griffin,OWNER_001,COMPANY102,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Stewie Griffin,OWNER_003,COMPANY187,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Stewie Griffin,OWNER_001,COMPANY169,Won,High,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Stewie Griffin,OWNER_001,COMPANY169,Won,High,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+All Might,OWNER_001,COMPANY076,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+SpongeBob,OWNER_003,COMPANY153,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Patrick Star,OWNER_003,COMPANY013,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Squidward,OWNER_001,COMPANY141,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Squidward,OWNER_003,COMPANY099,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Squidward,OWNER_001,COMPANY137,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Mr. Krabs,OWNER_003,COMPANY100,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Mr. Krabs,OWNER_003,COMPANY135,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Mr. Krabs,OWNER_001,COMPANY076,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+SpongeBob,OWNER_001,COMPANY092,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Ben Tennyson,OWNER_003,COMPANY012,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Ben Tennyson,OWNER_003,COMPANY015,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Ben Tennyson,OWNER_001,COMPANY076,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Ben Tennyson,OWNER_001,COMPANY083,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Ben Tennyson,OWNER_003,COMPANY134,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Ben Tennyson,OWNER_004,COMPANY055,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Ben Tennyson,OWNER_004,COMPANY054,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Ben Tennyson,OWNER_003,COMPANY164,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Ben Tennyson,OWNER_003,COMPANY003,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Ben Tennyson,OWNER_001,COMPANY169,Won,High,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Ben Tennyson,OWNER_001,COMPANY106,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Ben Tennyson,OWNER_003,COMPANY060,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Ben Tennyson,OWNER_001,COMPANY028,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Ben Tennyson,OWNER_003,COMPANY044,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Ben Tennyson,OWNER_003,COMPANY113,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Ben Tennyson,OWNER_003,COMPANY113,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Aizawa,OWNER_003,COMPANY113,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Mojo Jojo,OWNER_003,COMPANY069,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Mojo Jojo,OWNER_001,COMPANY127,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Mojo Jojo,OWNER_003,COMPANY060,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Mojo Jojo,OWNER_003,COMPANY113,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Mojo Jojo,OWNER_003,COMPANY144,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Mojo Jojo,OWNER_003,COMPANY032,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Mojo Jojo,OWNER_003,COMPANY151,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Mojo Jojo,OWNER_003,COMPANY151,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Mojo Jojo,OWNER_001,COMPANY169,Won,High,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Aang,OWNER_001,COMPANY169,Won,High,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Katara,OWNER_001,COMPANY038,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Ochaco,OWNER_002,COMPANY148,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Zuko,OWNER_003,COMPANY172,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Zuko,OWNER_003,COMPANY033,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Appa,OWNER_003,COMPANY163,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Appa,OWNER_003,COMPANY005,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Appa,OWNER_003,COMPANY133,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Appa,OWNER_003,COMPANY133,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Appa,OWNER_003,COMPANY133,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Appa,OWNER_003,COMPANY005,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Shrek,OWNER_003,COMPANY005,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Donkey,OWNER_003,COMPANY059,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Donkey,OWNER_003,COMPANY029,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Puss in Boots,OWNER_001,COMPANY105,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Puss in Boots,OWNER_001,COMPANY123,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Puss in Boots,OWNER_003,COMPANY133,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Tigger,OWNER_001,COMPANY038,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Eeyore,OWNER_001,COMPANY038,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Woody,OWNER_003,COMPANY056,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Jessie,OWNER_003,COMPANY005,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Jessie,OWNER_003,COMPANY038,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Anna,OWNER_003,COMPANY097,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Olaf,OWNER_003,COMPANY031,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Baymax,OWNER_003,COMPANY002,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Stitch,OWNER_003,COMPANY005,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Inosuke,OWNER_001,COMPANY182,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Moana,OWNER_001,COMPANY182,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Mulan,OWNER_001,COMPANY182,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Simba,OWNER_001,COMPANY182,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Timon,OWNER_001,COMPANY038,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Timon,OWNER_001,COMPANY182,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Timon,OWNER_003,COMPANY082,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Timon,OWNER_006,COMPANY064,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Timon,OWNER_006,COMPANY181,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Timon,OWNER_002,COMPANY125,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Timon,OWNER_003,COMPANY062,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Timon,OWNER_003,COMPANY019,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Timon,OWNER_003,COMPANY022,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Tuxedo Mask,OWNER_003,COMPANY131,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Pumbaa,OWNER_003,COMPANY005,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Rafiki,OWNER_003,COMPANY005,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Rafiki,OWNER_003,COMPANY005,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Rafiki,OWNER_003,COMPANY005,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Rafiki,OWNER_003,COMPANY005,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Rafiki,OWNER_001,COMPANY169,Won,High,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Rafiki,OWNER_001,COMPANY037,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Scar,OWNER_001,COMPANY037,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Megatron,OWNER_003,COMPANY005,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Iroh,OWNER_001,COMPANY186,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Appa,OWNER_001,COMPANY038,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Pikachu,OWNER_003,COMPANY152,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Ash Ketchum,OWNER_003,COMPANY133,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Charmander,OWNER_003,COMPANY133,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Squirtle,OWNER_003,COMPANY031,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Bulbasaur,OWNER_003,COMPANY007,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Bulbasaur,OWNER_003,COMPANY011,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Bulbasaur,OWNER_003,COMPANY061,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_160,OWNER_003,COMPANY062,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_160,OWNER_003,COMPANY173,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_160,OWNER_003,COMPANY004,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_160,OWNER_003,COMPANY111,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_160,OWNER_003,COMPANY007,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_160,OWNER_001,COMPANY090,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_160,OWNER_001,COMPANY084,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_160,OWNER_002,COMPANY180,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_160,OWNER_001,COMPANY105,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_162,OWNER_003,COMPANY007,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_162,OWNER_004,COMPANY128,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_162,OWNER_003,COMPANY130,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_162,OWNER_003,COMPANY096,Won,High,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_162,OWNER_003,COMPANY104,Won,High,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_162,OWNER_001,COMPANY038,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_162,OWNER_002,COMPANY124,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_162,OWNER_001,COMPANY086,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_162,OWNER_003,COMPANY111,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_162,OWNER_003,COMPANY111,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Vegeta,OWNER_001,COMPANY182,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_165,OWNER_001,COMPANY184,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_166,OWNER_001,COMPANY138,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_168,OWNER_001,COMPANY139,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_169,OWNER_001,COMPANY136,Open,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_170,OWNER_001,COMPANY040,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_171,OWNER_001,COMPANY041,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_172,OWNER_004,COMPANY181,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_173,OWNER_001,COMPANY170,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_174,OWNER_003,COMPANY132,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_174,OWNER_003,COMPANY132,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
+Alias_175,OWNER_003,COMPANY078,Won,Medium,1223400,Construction,2025-06-15,2026-03-31,Qualified,Pure Service
