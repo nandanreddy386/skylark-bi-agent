@@ -30,12 +30,7 @@ app = FastAPI(
 settings = get_settings()
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        settings.frontend_url,
-        "http://localhost:5173",
-        "http://localhost:3000",
-        "http://127.0.0.1:5173",
-    ],
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -54,6 +49,7 @@ def get_agent() -> BIAgent:
 
 
 @app.get("/health", response_model=HealthResponse)
+@app.get("/api/health", response_model=HealthResponse)
 async def health_check():
     """Health check endpoint — verifies backend and Monday.com connectivity."""
     response = HealthResponse(status="ok", service="Skylark BI Agent")
@@ -77,15 +73,9 @@ async def health_check():
 
 
 @app.post("/api/chat", response_model=ChatResponse)
+@app.post("/chat", response_model=ChatResponse)
 async def chat(request: ChatRequest):
-    """Process a user's business question.
-
-    The agent will:
-    1. Classify the question intent
-    2. Fetch relevant data from Monday.com
-    3. Run deterministic analytics
-    4. Generate a business explanation
-    """
+    """Process a user's business question."""
     logger.info(f"Chat request: {request.message[:100]}")
 
     try:
@@ -108,6 +98,7 @@ async def chat(request: ChatRequest):
 
 
 @app.post("/api/refresh")
+@app.post("/refresh")
 async def refresh_cache():
     """Force a refresh of the Monday.com data cache."""
     try:
